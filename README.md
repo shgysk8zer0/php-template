@@ -1,6 +1,6 @@
 # php-template
 A fairly bare-bones template repository for PHP
-
+[![PHP Lint](https://github.com/shgysk8zer0/php-template/workflows/PHP%20Lint/badge.svg)](https://github.com/shgysk8zer0/php-template/actions?query=workflow%3A%22PHP+Lint%22)
 [![Super Linter](https://github.com/shgysk8zer0/php-template/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/shgysk8zer0/php-template/actions?query=workflow%3A%22Lint+Code+Base%22)
 
 [![GitHub license](https://img.shields.io/github/license/shgysk8zer0/php-template.svg)](https://github.com/shgysk8zer0/php-template/blob/master/LICENSE)
