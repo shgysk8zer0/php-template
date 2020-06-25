@@ -1,4 +1,5 @@
 version: 1
+# See documentation: https://dependabot.com/docs/config-file/
 update_configs:
   # Keep submodules up to date, batching pull requests weekly
   - package_manager: "submodules"
