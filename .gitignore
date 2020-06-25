@@ -5,6 +5,8 @@
 ~*
 *.bak
 *.tmp
+/vendor/*
+!/vendor/.gitkeep
 # Logs
 logs
 *.log
