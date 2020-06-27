@@ -6,7 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 <!-- markdownlint-disable -->
-## [v1.0.0] 2020-06-25
+## [v1.0.1] - 2020-06-27
+
+### Changed
+- Update workflow config
+- Switch to new version of Dependabot
+
+## [v1.0.0] - 2020-06-25
 
 ### Added
 - GitHub Actions workflows for PHP (Super Linter & `php -l` script)
