@@ -1,5 +1,4 @@
 ---
----
 #############################
 #############################
 ## JavaScript Linter rules ##
@@ -63,3 +62,4 @@ rules:
     method:
       before: true
       after: false
+---
