@@ -1,13 +1,11 @@
 {
-    "name": "shgysk8zer0/php-template",
-    "description": "Template repo for PHP Projects",
-    "type": "project",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Chris Zuber",
-            "email": "adming@kernvalley.us"
-        }
-    ],
-    "require": {}
+  "name": "shgysk8zer0/php-template",
+  "description": "Template repo for PHP Projects",
+  "type": "project",
+  "license": "MIT",
+  "authors": [{
+    "name": "Chris Zuber",
+    "email": "adming@kernvalley.us"
+  }],
+  "require": {}
 }
